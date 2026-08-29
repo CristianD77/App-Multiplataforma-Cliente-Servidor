@@ -69,18 +69,6 @@ App-Multiplataforma-Cliente-Servidor/
 
 Se requiere Python 3.
 
-Instalar las dependencias:
-
-```bash
-pip install -r requirements.txt
-```
-
-También se puede instalar directamente:
-
-```bash
-pip install websockets
-```
-
 ### Android
 
 Se requiere:
